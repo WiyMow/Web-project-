@@ -1,0 +1,46 @@
+
+.van{
+  background-color: black;
+  background-position:fixed;
+  color:white;
+}
+#nod{
+  background-color:black;
+  border-radius:20px;
+  padding: 10px;
+  margin:20px;
+  color:white;
+}
+.kod{
+  background-color:black;
+  background-position:fixed;
+  height: 100px;
+  width: border-box;
+  margin:0;
+}
+.tet{
+  color: red;
+}
+
+nav ul{
+  margin: 0;
+  padding: 0;
+}
+nav li{
+  display: inline;
+  float: left;
+}
+nav a{
+  display: inline-block;
+  width:100px;
+  text-align:center;
+  text-decoration:none;
+  padding: 10px 0;
+  color: floralwhite;
+}
+nav li:hover{
+  background-color:black;
+  border-radius:10px;
+  border-style:solid;
+  border-color:black;
+}
